@@ -60,7 +60,6 @@
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="{{ route('posts.index') }}">Posts</a></li>
                                     <li><a href="{{ route('menu.index') }}">Menú</a></li>
-                                    <li><a href="{{ route('posts.index') }}">Galería</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">

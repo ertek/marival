@@ -20,6 +20,10 @@ Si se usa con el box de homestead la base de datos estará configurada para usar
 
 ## Desarrollo
 
+### Migraciones
+
+Se realizaron las migraciones necesarias para crear las tablas de menú y de posts.
+
 ### Modelos
 
 * Post
